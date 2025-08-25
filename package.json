@@ -1,0 +1,28 @@
+{
+  "name": "ethereal-galaxy",
+  "displayName": "Ethereal Galaxy",
+  "description": "An Ethereal Galaxy Theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "SilentGlasses",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ethereal Galaxy Dark",
+        "uiTheme": "vs-dark",
+        "path": "themes/ethereal-galaxy-dark-color-theme.json"
+      },
+      {
+        "label": "Ethereal Galaxy Light",
+        "uiTheme": "vs",
+        "path": "themes/ethereal-galaxy-light-color-theme.json"
+      }
+    ]
+  }
+}
