@@ -1,2 +1,1 @@
-# ethereal_dark_vscode_theme
-Ethereal Galaxy Theme for VS Code
+# Ethereal Dark Theme for VS Code
